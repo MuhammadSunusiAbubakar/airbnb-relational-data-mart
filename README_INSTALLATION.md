@@ -1,8 +1,7 @@
 # Airbnb Relational Data Mart (airbnb_dm)
 ## Database Implementation, Installation & Analytical Execution Manual
 **Course:** Build a Data Mart in SQL (DLBDSPBDM01)  
-**Student:** Muhammad Sunusi Abubakar  
-**Matriculation Number:** 102401411  
+**Student:** Muhammad Sunusi Abubakar    
 **Study Program:** B.Sc. Data Science  
 **Institution:** IU International University of Applied Sciences Hochschule, Germany  
 **DBMS Engine:** MySQL 8.0 Community Server (InnoDB Engine)  
